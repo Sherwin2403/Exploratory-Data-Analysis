@@ -4,4 +4,4 @@ I'm S Sherwin Jaysingh
 I like Exploratory Data Analysis
 I like Artifucial Intelligence and Machine Learning.
 
-My destiny is to be a aervant of the Lord
+My destiny is to be a servant of the Lord
