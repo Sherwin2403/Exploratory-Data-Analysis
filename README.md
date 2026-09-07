@@ -2,6 +2,6 @@ I'm S Sherwin Jaysingh
 25BDS0177
 
 I like Exploratory Data Analysis
-I like Artifucial Intelligence and Machine Learning.
+I like Artificial Intelligence and Machine Learning.
 
 My destiny is to be a servant of the Lord
